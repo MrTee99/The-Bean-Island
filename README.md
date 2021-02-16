@@ -7,4 +7,5 @@ Some of the core features of this game are
 * Multiple kinds of enemies AI.
 
 Gameplay Demo
+
 ![The Bean Island Gameplay Demo](Demo GIF/GameplayDemo_GIF.gif)

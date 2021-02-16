@@ -8,4 +8,4 @@ Some of the core features of this game are
 
 Gameplay Demo
 
-![](Demo GIF/GameplayDemo_GIF.gif)
+![](https://github.com/MrTee99/The-Bean-Island/blob/main/Demo%20GIF/GameplayDemo_GIF.gif)

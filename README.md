@@ -6,6 +6,5 @@ Some of the core features of this game are
 * Multiple kinds of weapons each with unique characteristics
 * Multiple kinds of enemies AI.
 
-Gameplay Demo
-
+Gameplay Demo GIF
 ![The Bean Island Gameplay Demo GIF](https://github.com/MrTee99/The-Bean-Island/blob/main/Demo%20GIF/GameplayDemo_GIF.gif)

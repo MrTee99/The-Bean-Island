@@ -8,4 +8,4 @@ Some of the core features of this game are
 
 Gameplay Demo
 
-![The Bean Island Gameplay Demo](Demo GIF/GameplayDemo_GIF.gif)
+(Demo GIF/GameplayDemo_GIF.gif)

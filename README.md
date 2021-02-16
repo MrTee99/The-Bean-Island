@@ -5,3 +5,6 @@ Some of the core features of this game are
 * Procedurally generated trees and boulders on the Island
 * Multiple kinds of weapons each with unique characteristics
 * Multiple kinds of enemies AI.
+
+Gameplay Demo
+![The Bean Island Gameplay Demo](Demo GIF/GameplayDemo_GIF.gif)
